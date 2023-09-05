@@ -1,0 +1,9 @@
+{
+    "Student":[
+        {"Name":"Deep"},
+        {"age":24}
+    ],
+    "Details":[
+        {"Address":"Asanol"}
+    ]
+}
